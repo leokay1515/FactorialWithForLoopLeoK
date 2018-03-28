@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\FactorialWithForLoopLeoK\FactorialWithForLoopLeoK\bin\Debug\FactorialWithForLoopLeoK.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\FactorialWithForLoopLeoK\FactorialWithForLoopLeoK\bin\Debug\FactorialWithForLoopLeoK.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\FactorialWithForLoopLeoK\FactorialWithForLoopLeoK\bin\Debug\FactorialWithForLoopLeoK.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\FactorialWithForLoopLeoK\FactorialWithForLoopLeoK\obj\Debug\FactorialWithForLoopLeoK.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\FactorialWithForLoopLeoK\FactorialWithForLoopLeoK\obj\Debug\FactorialWithForLoopLeoK.frmFactorialWithForLoopLeoK.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\FactorialWithForLoopLeoK\FactorialWithForLoopLeoK\obj\Debug\FactorialWithForLoopLeoK.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\FactorialWithForLoopLeoK\FactorialWithForLoopLeoK\obj\Debug\FactorialWithForLoopLeoK.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\FactorialWithForLoopLeoK\FactorialWithForLoopLeoK\obj\Debug\FactorialWithForLoopLeoK.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\FactorialWithForLoopLeoK\FactorialWithForLoopLeoK\obj\Debug\FactorialWithForLoopLeoK.pdb
